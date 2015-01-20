@@ -6,9 +6,11 @@
 }
 #header-inner{
     background-color: #00334d !important;
+    background: none !important;
 }
 #header{
     background-color: #00334d !important;
+    background: none !important;
 }
 .harvardLogo{
     display: inline-block;
