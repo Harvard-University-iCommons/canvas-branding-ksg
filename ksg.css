@@ -4,19 +4,24 @@
     visibility: hidden;
     width: 0;
 }
+
 #header-inner{
     background-color: #00334d !important;
+    background-image: none !important;
 }
+
 #header{
     background-color: #00334d !important;
+    background-image: none !important;
 }
+
 .harvardLogo{
     display: inline-block;
-    left: 16px; 
-    bottom: 0; 
+    left: 10px; 
     position: absolute; 
-    background-image: url('images/KSG-logo.png') !important;
-    background-size: 170px 62px; 
+    background-image: url('images/ksg_170.png') !important;
+    background-size: 170px 28px; 
     width: 170px; 
-    height: 62px; 
+    height: 28px; 
+    margin-bottom: 20px;
 }
