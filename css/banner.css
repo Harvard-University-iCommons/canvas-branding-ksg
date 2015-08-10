@@ -1,10 +1,5 @@
 ﻿/* Custom CSS Rules for Harvard Kennedy School Executive Education Canvas Sub-Account*/
 
-#header-inner ul#menu li#grades_menu_item {
-    visibility: hidden;
-    width: 0;
-}
-
 #header-inner{
     background-color: #00334d !important;
     background-image: none !important;
@@ -19,7 +14,7 @@
     display: inline-block;
     left: 10px; 
     position: absolute; 
-    background-image: url('images/ksg_170.png') !important;
+    background-image: url('../img/ksg_170.png') !important;
     background-size: 170px 28px; 
     width: 170px; 
     height: 28px; 
